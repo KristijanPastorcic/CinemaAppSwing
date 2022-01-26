@@ -4,12 +4,14 @@
  */
 package hr.kpastor11.repositories.interfaces;
 
-import hr.kpastor11.modles.User;
+import hr.kpastor11.roles.enums.Role;
 
 /**
  *
  * @author islan
  */
 public interface RoleManager {
-    boolean isUserInRole(User user);
+
+    boolean isUserInRole(int idUser, Role role) throws Exception;
+    
 }

@@ -6,13 +6,17 @@ package hr.kpastor11.forms;
 
 
 import hr.kpastor11.factories.RepositoryFactory;
-import hr.kpastor11.modles.User;
+import hr.kpastor11.roles.User;
 import hr.kpastor11.forms.auth.LoginForm;
 import hr.kpastor11.forms.interfaces.Loginable;
 import hr.kpastor11.panels.AdminPanel;
+import hr.kpastor11.panels.MoviePanel;
 import hr.kpastor11.repositories.interfaces.RoleManager;
 import hr.kpastor11.repositories.interfaces.UsersRepository;
+import hr.kpastor11.roles.enums.Role;
 import java.util.Optional;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 /**
  *
@@ -20,7 +24,7 @@ import java.util.Optional;
  */
 public class MainCinemaFrame extends javax.swing.JFrame implements Loginable {
 
-    private User user;
+    private int idUser;
     private UsersRepository repository;
     private RoleManager roleManager;
     /**
@@ -99,7 +103,6 @@ public class MainCinemaFrame extends javax.swing.JFrame implements Loginable {
     @Override
     public void Login(Optional<User> user) {
         if (user.isPresent()) {
-            this.user = user.get();
             this.setVisible(true);
             init();
         }
@@ -117,8 +120,13 @@ public class MainCinemaFrame extends javax.swing.JFrame implements Loginable {
     // End of variables declaration//GEN-END:variables
 
     private void configurePanels() {
-        if (roleManager.isUserInRole(user)) {
-            tpContent.add("Admin", new AdminPanel());
+        try {
+            if (roleManager.isUserInRole(idUser, Role.ADMIN)) {
+                tpContent.add("Admin", new AdminPanel());
+            }
+            tpContent.add("Movies", new MoviePanel());
+        } catch (Exception ex) {
+            Logger.getLogger(MainCinemaFrame.class.getName()).log(Level.SEVERE, null, ex);
         }
         
     }

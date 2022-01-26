@@ -4,7 +4,7 @@
  */
 package hr.kpastor11.repositories.sql;
 
-import hr.kpastor11.modles.User;
+import hr.kpastor11.roles.User;
 import hr.kpastor11.factories.DataSourceFactory;
 import hr.kpastor11.repositories.interfaces.AuthRepositry;
 import java.sql.CallableStatement;

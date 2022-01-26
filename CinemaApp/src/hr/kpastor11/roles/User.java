@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Interface.java to edit this template
  */
-package hr.kpastor11.modles;
+package hr.kpastor11.roles;
 
 /**
  *
@@ -24,4 +24,6 @@ public class User {
     public String getPassword() {
         return password;
     }
+    
+    
 }

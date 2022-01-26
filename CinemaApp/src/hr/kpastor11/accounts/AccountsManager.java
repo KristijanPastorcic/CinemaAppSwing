@@ -4,7 +4,7 @@
  */
 package hr.kpastor11.accounts;
 
-import hr.kpastor11.modles.User;
+import hr.kpastor11.roles.User;
 import hr.kpastor11.factories.RepositoryFactory;
 import hr.kpastor11.repositories.interfaces.AuthRepositry;
 import java.util.Optional;

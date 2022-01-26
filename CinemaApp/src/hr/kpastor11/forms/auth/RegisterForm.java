@@ -6,7 +6,7 @@ package hr.kpastor11.forms.auth;
 
 import hr.algebra.utilities.MessageUtils;
 import hr.kpastor11.accounts.AccountsManager;
-import hr.kpastor11.modles.User;
+import hr.kpastor11.roles.User;
 import hr.kpastor11.forms.interfaces.Registrable;
 import java.util.Arrays;
 import java.util.List;

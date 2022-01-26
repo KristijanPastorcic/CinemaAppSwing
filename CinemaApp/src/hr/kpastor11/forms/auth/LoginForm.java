@@ -13,7 +13,7 @@ import java.util.List;
 import javax.swing.JLabel;
 import javax.swing.text.JTextComponent;
 import hr.kpastor11.forms.interfaces.Registrable;
-import hr.kpastor11.modles.User;
+import hr.kpastor11.roles.User;
 import hr.kpastor11.repositories.interfaces.UsersRepository;
 import java.util.Optional;
 import java.util.logging.Level;
@@ -29,7 +29,6 @@ public class LoginForm extends javax.swing.JDialog implements Registrable {
     private static final String LOGIN_UNSUCCESSFUL_MESSAGE = "User name or password is incorrect";
 
     private final Loginable loginable;
-    UsersRepository usersRepository = RepositoryFactory.getUsersRepository();
 
     private List<JTextComponent> validationFields;
     private List<JLabel> errorLabels;
@@ -195,10 +194,11 @@ public class LoginForm extends javax.swing.JDialog implements Registrable {
         lbLoginMessage.setText("");
         try {
             Optional<Integer> idOptional;
-            idOptional = AccountsManager.login(new User(userName, new String(password)));
+            User user = new User(userName, new String(password));
+            idOptional = AccountsManager.login(user);
             if (idOptional.isPresent()) {
                 loginable.Login(
-                        Optional.of(usersRepository.getUser(idOptional.get())));
+                        Optional.of(user));
                 return true;
             } else {
                 lbLoginMessage.setText(LOGIN_UNSUCCESSFUL_MESSAGE);

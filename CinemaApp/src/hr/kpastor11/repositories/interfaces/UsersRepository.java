@@ -4,7 +4,7 @@
  */
 package hr.kpastor11.repositories.interfaces;
 
-import hr.kpastor11.modles.User;
+import hr.kpastor11.roles.User;
 
 /**
  *

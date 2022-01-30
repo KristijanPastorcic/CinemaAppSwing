@@ -8,6 +8,7 @@ package hr.kpastorcic11.forms;
 import hr.algebra.utilities.JAXBUtils;
 import hr.algebra.utilities.MessageUtils;
 import hr.kpastorcic11.factories.RepositoryFactory;
+import hr.kpastorcic11.forms.auth.LoginForm;
 import hr.kpastorcic11.roles.User;
 import hr.kpastorcic11.forms.interfaces.Loginable;
 import hr.kpastorcic11.models.Movie;
@@ -38,7 +39,7 @@ public class MainCinemaFrame extends javax.swing.JFrame implements Loginable {
         initComponents();
         
         // delete after
-        Login(Optional.of(new User(2, "", ""))); 
+        //Login(Optional.of(new User(2, "", ""))); 
     }
 
     @SuppressWarnings("unchecked")
@@ -125,16 +126,10 @@ public class MainCinemaFrame extends javax.swing.JFrame implements Loginable {
 
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
-            public void run() {
-                
-                
+            public void run() {           
                 MainCinemaFrame mainFrame = new MainCinemaFrame();
-                
-                // delete and uncoment 
-                mainFrame.setVisible(true);
-                
-//                LoginForm form = new LoginForm(mainFrame);
-//                form.setVisible(true);
+                LoginForm form = new LoginForm(mainFrame);
+                form.setVisible(true);
             }
         });
     }
@@ -146,6 +141,8 @@ public class MainCinemaFrame extends javax.swing.JFrame implements Loginable {
             this.setVisible(true);
             init();
         }
+        else
+            dispose();
     }
 
     private void init() {

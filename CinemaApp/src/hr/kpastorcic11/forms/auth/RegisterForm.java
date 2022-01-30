@@ -56,6 +56,12 @@ public class RegisterForm extends javax.swing.JDialog {
 
         jLabel1.setText("Enter Username");
 
+        tfPassword.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                tfPasswordActionPerformed(evt);
+            }
+        });
+
         jLabel2.setText("Enter Password");
 
         lbUserNameError.setForeground(java.awt.Color.red);
@@ -159,6 +165,10 @@ public class RegisterForm extends javax.swing.JDialog {
     private void formWindowClosing(java.awt.event.WindowEvent evt) {//GEN-FIRST:event_formWindowClosing
         registrable.userRegistered(Optional.empty());
     }//GEN-LAST:event_formWindowClosing
+
+    private void tfPasswordActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_tfPasswordActionPerformed
+        btnConfirmActionPerformed(null);
+    }//GEN-LAST:event_tfPasswordActionPerformed
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton btnBackToLogin;

@@ -3,14 +3,19 @@
     <movies>
         <movie id="1">
             <title>Knjiga ljubavi</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Poslednji roman mladog, uštogljenog engleskog autora Henrija stvarni je neuspeh. Henri je međutim oduševljen kad sazna da je njegova knjiga iznenađujući veliki hit u Meksiku! &#xD;
 
 Odlazi tamo na promociju i ubrzo otkriva o čemu se zapravo radi: prevodilac Maria prevela je njegovu dosadnu knjigu kao vrući erotski roman. &#xD;
 
 Henri je besan, a njegov izdavač insistira da Maria i on zajedno krenu na promotivnu turneju po Meksiku. Tamo će oboje otkriti kako se suprotnosti zapravo privlače…</description>
             <duration>106</duration>
-            <directors/>
+            <directors>
+                <director id="1">
+                    <firstName>Analeine Cal y </firstName>
+                    <lastName>Mayor</lastName>
+                </director>
+            </directors>
             <actors>
                 <actor id="2">
                     <firstName>Sam </firstName>
@@ -28,18 +33,23 @@ Henri je besan, a njegov izdavač insistira da Maria i on zajedno krenu na promo
             <genre>romantična komedija</genre>
             <link>https://www.blitz-cinestar.hr/root/knjiga-ljubavi/</link>
             <inTheaters>03.02.22.</inTheaters>
-            <posterPicturePath>assets\52947b20-f7fd-4be0-b776-1d2b1f52a7a0.jpg</posterPicturePath>
+            <posterPicturePath>assets\37dd4e76-8038-4d90-a7d3-6a89bd073286.jpg</posterPicturePath>
         </movie>
         <movie id="2">
             <title>Knjiga ljubavi</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Zadnji roman mladog, uštogljenog engleskog autora Henryja stvarni je neuspjeh. Henry je međutim oduševljen kad sazna da je njegova knjiga iznenađujući veliki hit u Meksiku! &#xD;
 
 Odlazi tamo na promociju i ubrzo otkriva o čemu se zapravo radi: prevoditeljica Maria prevela je njegovu dosadnu knjigu kao vrući erotski roman. &#xD;
 
 Henry je bijesan, a njegov izdavač inzistira da Maria i on zajedno krenu na promotivnu turneju po Meksiku. Tamo će oboje otkriti kako se suprotnosti zapravo privlače…</description>
             <duration>106</duration>
-            <directors/>
+            <directors>
+                <director id="1">
+                    <firstName>Analeine Cal y </firstName>
+                    <lastName>Mayor</lastName>
+                </director>
+            </directors>
             <actors>
                 <actor id="2">
                     <firstName>Sam </firstName>
@@ -57,11 +67,11 @@ Henry je bijesan, a njegov izdavač inzistira da Maria i on zajedno krenu na pro
             <genre>romantična komedija</genre>
             <link>https://www.blitz-cinestar.hr/root/knjiga-ljubavi/</link>
             <inTheaters>03.02.22.</inTheaters>
-            <posterPicturePath>assets\9eb74d03-a02f-4321-92be-e364a23d8f6c.jpg</posterPicturePath>
+            <posterPicturePath>assets\d5956c08-ac3d-425f-b64c-d46cadd138c8.jpg</posterPicturePath>
         </movie>
         <movie id="3">
             <title>Mesečev pad</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Tajanstvena sila izbacuje Mesec iz orbite oko Zemlje i šalje ga u sudar sa životom kakav poznajemo. Sa samo nekoliko nedelja pre udara i svetom na ivici uništenja, izvršna direktorka NASA-e i bivša astronautkinja Džo Fauler uverena je da ima ključ za spasavanje svih nas – ali samo astronaut iz njene prošlosti, Brajan Harper (Patrik Vilson) i teoretičar zavere KC Houseman joj veruju. Ovi neverovatni heroji će krenuti u nemoguću poslednju misiju u svemir, ostavljajući iza sebe sve koje vole, samo </description>
             <duration>131</duration>
             <directors>
@@ -91,11 +101,11 @@ Henry je bijesan, a njegov izdavač inzistira da Maria i on zajedno krenu na pro
             <genre>SF, akcija</genre>
             <link>https://www.blitz-cinestar.hr/root/mesecev-pad/792</link>
             <inTheaters>03.02.22.</inTheaters>
-            <posterPicturePath>assets\409578dd-6d5d-4a96-894e-27399b82e838.jpg</posterPicturePath>
+            <posterPicturePath>assets\326bdea6-6684-45a8-9e5b-e24ef319894c.jpg</posterPicturePath>
         </movie>
         <movie id="4">
             <title>Mesečev pad 4DX</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Tajanstvena sila izbacuje Mesec iz orbite oko Zemlje i šalje ga u sudar sa životom kakav poznajemo. Sa samo nekoliko nedelja pre udara i svetom na ivici uništenja, izvršna direktorka NASA-e i bivša astronautkinja Džo Fauler uverena je da ima ključ za spasavanje svih nas – ali samo astronaut iz njene prošlosti, Brajan Harper (Patrik Vilson) i teoretičar zavere KC Houseman joj veruju. Ovi neverovatni heroji će krenuti u nemoguću poslednju misiju u svemir, ostavljajući iza sebe sve koje vole, samo </description>
             <duration>131</duration>
             <directors>
@@ -125,11 +135,11 @@ Henry je bijesan, a njegov izdavač inzistira da Maria i on zajedno krenu na pro
             <genre>SF, akcija</genre>
             <link>https://www.blitz-cinestar.hr/root/mesecev-pad-4dx</link>
             <inTheaters>03.02.22.</inTheaters>
-            <posterPicturePath>assets\da2b3115-eb53-4a92-a21d-b87194bb843a.jpg</posterPicturePath>
+            <posterPicturePath>assets\cc4827d1-f029-4fbf-a014-82eebacd5754.jpg</posterPicturePath>
         </movie>
         <movie id="5">
             <title>Moonfall</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Tajanstvena sila izbacuje Mjesec iz Zemljine orbite i šalje ga ravno u sudar sa životom kakav poznajemo. Svega nekoliko tjedana prije udara i sa svijetom na rubu uništenja, izvršna direktorica NASA-e i bivša astronautkinja Jo Fowler (Halle Berry) uvjerena je da ima ključ spasa. Bivši kolega astronaut, Brian Harper (Patrick Wilson) i teoretičar zavjere K.C. Houseman (John Bradley) jedini su koji joj vjeruju. Ovi će heroji krenuti u nemoguću posljednju misiju u svemir, ali tamo otkrivaju da naš Mj</description>
             <duration>131</duration>
             <directors>
@@ -159,11 +169,11 @@ Henry je bijesan, a njegov izdavač inzistira da Maria i on zajedno krenu na pro
             <genre>SF, akcija</genre>
             <link>https://www.blitz-cinestar.hr/root/moonfall/7938//</link>
             <inTheaters>03.02.22.</inTheaters>
-            <posterPicturePath>assets\67023bbd-1096-48e4-913d-81832c8ddb9e.jpg</posterPicturePath>
+            <posterPicturePath>assets\c1db9d87-9881-4958-a1b2-409184251117.jpg</posterPicturePath>
         </movie>
         <movie id="6">
             <title>Moonfall 4DX</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Tajanstvena sila izbacuje Mjesec iz Zemljine orbite i šalje ga ravno u sudar sa životom kakav poznajemo. Svega nekoliko tjedana prije udara i sa svijetom na rubu uništenja, izvršna direktorica NASA-e i bivša astronautkinja Jo Fowler (Halle Berry) uvjerena je da ima ključ spasa. Bivši kolega astronaut, Brian Harper (Patrick Wilson) i teoretičar zavjere K.C. Houseman (John Bradley) jedini su koji joj vjeruju. Ovi će heroji krenuti u nemoguću posljednju misiju u svemir,  ali tamo otkrivaju da naš M</description>
             <duration>131</duration>
             <directors>
@@ -193,11 +203,11 @@ Henry je bijesan, a njegov izdavač inzistira da Maria i on zajedno krenu na pro
             <genre>SF, akcija</genre>
             <link>https://www.blitz-cinestar.hr/root/moonfall-4dx/79</link>
             <inTheaters>03.02.22.</inTheaters>
-            <posterPicturePath>assets\0c18af37-fe5f-4ab1-b352-a70f43823cd1.jpg</posterPicturePath>
+            <posterPicturePath>assets\c17304eb-eccf-4424-b18f-249ad8b35861.jpg</posterPicturePath>
         </movie>
         <movie id="7">
             <title>Moonfall IMAX</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Tajanstvena sila izbacuje Mjesec iz Zemljine orbite i šalje ga ravno u sudar sa životom kakav poznajemo. Svega nekoliko tjedana prije udara i sa svijetom na rubu uništenja, izvršna direktorica NASA-e i bivša astronautkinja Jo Fowler (Halle Berry) uvjerena je da ima ključ spasa. Bivši kolega astronaut, Brian Harper (Patrick Wilson) i teoretičar zavjere K.C. Houseman (John Bradley) jedini su koji joj vjeruju. Ovi će heroji krenuti u nemoguću posljednju misiju u svemir,  ali tamo otkrivaju da naš M</description>
             <duration>131</duration>
             <directors>
@@ -227,11 +237,11 @@ Henry je bijesan, a njegov izdavač inzistira da Maria i on zajedno krenu na pro
             <genre>SF, akcija</genre>
             <link>https://www.blitz-cinestar.hr/root/moonfall-imax/7</link>
             <inTheaters>03.02.22.</inTheaters>
-            <posterPicturePath>assets\d285690a-6f6a-4be3-b501-844c0bd608f3.jpg</posterPicturePath>
+            <posterPicturePath>assets\e8fcc192-55e9-49cc-b25e-7da85ee32307.jpg</posterPicturePath>
         </movie>
         <movie id="8">
             <title>Benedetta</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>U drugoj polovici sedamnaestog stoljeća dok kuga razara zemlju, Benedetta Carlini pridružuje se samostanu u Pesciji (Toskani) kao sestra početnica. Od ranog djetinjstva sposobna izvoditi čuda, Benedettin snažan utjecaj na zajednicu instantan je gotovo jednako koliko i važan, ali i šokantan…</description>
             <duration>131</duration>
             <directors>
@@ -261,11 +271,11 @@ Henry je bijesan, a njegov izdavač inzistira da Maria i on zajedno krenu na pro
             <genre>biografski, drama, povijesni</genre>
             <link>https://www.blitz-cinestar.hr/root/benedetta/7925/</link>
             <inTheaters>10.02.22.</inTheaters>
-            <posterPicturePath>assets\ec7356ef-634d-44a9-9e81-24461ba55461.jpg</posterPicturePath>
+            <posterPicturePath>assets\fa1a5a20-e73f-4484-bd0b-7a8e43b61dd6.jpg</posterPicturePath>
         </movie>
         <movie id="9">
             <title>Blacklight</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Scenarista i reditelj Mark Villijams, inače izvršni producent popularne serije Ozark, nakon velikog bioskopskog uspeha filma Pokajnik ponovno udružuje snage sa Liamom Nisonom.&#xD;
 
 &#xD;
@@ -297,11 +307,11 @@ Istinu koja bi mogla da optereti čak i njeg</description>
             <genre>akcija, triler</genre>
             <link>https://www.blitz-cinestar.hr/root/blacklight/7933</link>
             <inTheaters>10.02.22.</inTheaters>
-            <posterPicturePath>assets\58883f0b-fd99-4019-8b7d-ecc8ca341eea.jpg</posterPicturePath>
+            <posterPicturePath>assets\b74bca1b-7d4c-4688-9c21-69f6c5ff28ae.jpg</posterPicturePath>
         </movie>
         <movie id="10">
             <title>Jahač zmaja - sinh</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Jahač zmaja je nastao prema nemačkom dečjem romanu autorke Kornelije Funke. Mladi srebrni zmaj i njegov novi prijatelj kreću u potragu za poslednjim utočištem srebrnih zmajeva. Pred njima je niz neverovatnih pustolovina i neobičnih susreta od kojih će jedan biti presudan - susret sa bezdušnim čudovištem iz prošlosti čiji je jedini cilj uništenje poslednjeg zmaja.</description>
             <duration>91</duration>
             <directors>
@@ -314,11 +324,11 @@ Istinu koja bi mogla da optereti čak i njeg</description>
             <genre>animirani</genre>
             <link>https://www.blitz-cinestar.hr/root/jahac-zmaja-sin</link>
             <inTheaters>10.02.22.</inTheaters>
-            <posterPicturePath>assets\c4c09d41-6d39-4acf-85e5-8885225a0c7c.jpg</posterPicturePath>
+            <posterPicturePath>assets\d0380f8b-23cd-4647-a902-d60ee3d7d91b.jpg</posterPicturePath>
         </movie>
         <movie id="11">
             <title>Smrt na Nilu</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Putovanje po Egiptu na glamuroznom parobrodu za belgijskog detektiva Herkula Poaroa pretvara se u zastrašujuću potragu za ubicom, u trenucima kada se idilični medeni mesec savršenog para tragično završava. Nasuprot pejzažima pustinje i veličanstvenih piramida u Gizi, ova priča o neobuzdanoj strasti i ljubomori prikazuje besprekorno odevene putnike, ali i nemilosrdne zaplete koji će publiku do kraja ostaviti u nagađanjima, do šokantnog raspleta.</description>
             <duration>127</duration>
             <directors>
@@ -344,11 +354,11 @@ Istinu koja bi mogla da optereti čak i njeg</description>
             <genre>Krimi, drama, misterija</genre>
             <link>https://www.blitz-cinestar.hr/root/smrt-na-nilu/73</link>
             <inTheaters>10.02.22.</inTheaters>
-            <posterPicturePath>assets\a43a68cf-15ad-4f05-99c6-79c10d1260eb.jpg</posterPicturePath>
+            <posterPicturePath>assets\bae760ab-efc3-4877-862b-9dc8e6942797.jpg</posterPicturePath>
         </movie>
         <movie id="12">
             <title>Ti si taj</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Prepun originalnih pesama Dženifer Lopez i globalne latino muzičke zvezde Malume, TI SI TAJ predstavlja Lopezovu u ulozi muzičke superzvezde Ket Valdez i Ovena Vilsona kao Čarlija Gilberta, nastavnika matematike – dvoje potpunih stranaca koji pristaju da se venčaju, a tek potom se zbližavaju. Nesvakidašnja romansa o dvoje različitih ljudi koji traže nešto stvarno u svetu gde se vrednost zasniva na lajkovima i pratiocima, TI SI TAJ je moderna ljubavna priča o slavnim ličnostima, braku i društveni</description>
             <duration>112</duration>
             <directors>
@@ -382,11 +392,11 @@ Istinu koja bi mogla da optereti čak i njeg</description>
             <genre>romantična komedija</genre>
             <link>https://www.blitz-cinestar.hr/root/ti-si-taj/7881/</link>
             <inTheaters>10.02.22.</inTheaters>
-            <posterPicturePath>assets\fab72d2a-68aa-40a7-8015-3c01fba67dd5.jpg</posterPicturePath>
+            <posterPicturePath>assets\7e3ce904-d6f8-4107-b61b-3e56d3ddafe8.jpg</posterPicturePath>
         </movie>
         <movie id="13">
             <title>Ti si taj</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description></description>
             <duration>112</duration>
             <directors>
@@ -420,11 +430,11 @@ Istinu koja bi mogla da optereti čak i njeg</description>
             <genre>romantična komedija</genre>
             <link>https://www.blitz-cinestar.hr/root/ti-si-taj/7920/</link>
             <inTheaters>10.02.22.</inTheaters>
-            <posterPicturePath>assets\c651addc-cb4a-4c6c-981f-764c2c04166a.jpg</posterPicturePath>
+            <posterPicturePath>assets\cf05e3e4-0eb2-41cf-9e2a-be8351bcd8bc.jpg</posterPicturePath>
         </movie>
         <movie id="14">
             <title>The Beatles: Get Back – The Rooftop Concert IMAX</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>The Beatles, jedan od najvećih bendova svih vremena, 60-ih godina prošlog stoljeća bili su najpopularniji glazbeni projekt za kojeg se uvijek tražila karta više.&#xD;
 
 Njihov zadnji koncert, poznat kao „The Rooftop Concert” jer se odvijao na krovu njihove diskografske kuće u londonskoj ulici Savile Row, po prvi je put optimiziran ekskluzivno za IMAX ekrane, digitalno remasteriran u kvalitetu slike i zvuka za potpuni IMAX® doživljaj u naprednoj IMAX DMR® tehnologiji. Zahvaljujući IMAX tehnologiji, im</description>
@@ -444,11 +454,11 @@ Njihov zadnji koncert, poznat kao „The Rooftop Concert” jer se odvijao na kr
             <genre>glazbeni, dokumentarni</genre>
             <link>https://www.blitz-cinestar.hr/root/the-beatles-get</link>
             <inTheaters>11.02.22.</inTheaters>
-            <posterPicturePath>assets\350144ac-5844-437c-a1a1-6807646e2c7a.jpg</posterPicturePath>
+            <posterPicturePath>assets\865df7d6-89fb-41f5-babb-6a31866568c7.jpg</posterPicturePath>
         </movie>
         <movie id="15">
             <title>Romeo i Julija</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Najpoznatiji Šekspirovi ljubavnici doživljavaju strast i tragediju u baletskom remek -delu 20. veka. Romeo i Julija je postao klasik baleta ROH repertoara od kako ga je kreirao direktor Kraljevskog baleta Kenet Makmilan, premijerno izveden 1965. U ovoj secijalnoj projekciji za Dan zaljubljenih, ukleti ljubavnici pokušavaju da pronađu put kroz živopisnu renesansnu veronu. Na užurbanoj pijaci izbija borba mačevima, a porodična svađa dovodi do tragedije i za porodice Monteki i Kapuleti.&#xD;
 Početak pr</description>
             <duration>205</duration>
@@ -457,11 +467,11 @@ Početak pr</description>
             <genre>balet</genre>
             <link>https://www.blitz-cinestar.hr/root/romeo-i-julija/</link>
             <inTheaters>14.02.22.</inTheaters>
-            <posterPicturePath>assets\d5d97fd7-2c77-46b8-a75d-39719968755d.jpg</posterPicturePath>
+            <posterPicturePath>assets\397ef649-5778-4d52-87fb-a31355b265e2.jpg</posterPicturePath>
         </movie>
         <movie id="16">
             <title>Romeo i Julija</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Shakespeareovi najpoznatiji ljubavnici doživljavaju strast i tragediju u baletnom remek-djelu 20. stoljeća.
 Romeo i Julija postao je baletni klasik ROH repertoara otkako ga je stvorio ravnatelj Kraljevskog baleta Kenneth MacMillan; premijerno je izveden 1965. U ovoj posebnoj projekciji na Valentinovo, ukleti ljubavnici pokušavaju pronaći svoj put kroz slikovitu  renesansnu Veronu. Na užurbanoj tržnici izbija borba mačevima, a obiteljska svađa dovodi do tragedije i za obitelj Montecchi i Capulett</description>
             <duration>205</duration>
@@ -470,11 +480,11 @@ Romeo i Julija postao je baletni klasik ROH repertoara otkako ga je stvorio ravn
             <genre>balet</genre>
             <link>https://www.blitz-cinestar.hr/root/romeo-i-julija/</link>
             <inTheaters>14.02.22.</inTheaters>
-            <posterPicturePath>assets\ced5b68c-71b4-4451-ad3e-8c09cf368bae.jpg</posterPicturePath>
+            <posterPicturePath>assets\ac601e65-3f87-48f5-a68a-c406982028ff.jpg</posterPicturePath>
         </movie>
         <movie id="17">
             <title>Leto kada sam naučila da letim</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>‘’Leto kada sam naučila da letim’’ je nežna priča o odrastanju i pomirenju.&#xD;
 
  &#xD;
@@ -512,11 +522,11 @@ Bez društva, dometa i interneta, Sofijin život na Hvaru je ‘’pa ka o’’
             <genre>porodični</genre>
             <link>https://www.blitz-cinestar.hr/root/leto-kada-sam-n</link>
             <inTheaters>17.02.22.</inTheaters>
-            <posterPicturePath>assets\5a6dc69e-cddc-46ce-b98f-bff8b5c8b0ed.jpg</posterPicturePath>
+            <posterPicturePath>assets\ef9cea93-aaa6-4b77-bae7-60e52289be00.jpg</posterPicturePath>
         </movie>
         <movie id="18">
             <title>Pas</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Osim što tumači glavnu ulogu, Čejning Tatum je ujedno i koreditelj filma u kom mu se u glavnoj ulozi pridružuje simpatični belgijski ovčar.&#xD;
 
 &#xD;
@@ -550,11 +560,11 @@ Bivšem vojnom rendžeru Brigsu je dodeljeno da se brine o vojno obučenom psu p
             <genre>komedija</genre>
             <link>https://www.blitz-cinestar.hr/root/pas/7934//1</link>
             <inTheaters>17.02.22.</inTheaters>
-            <posterPicturePath>assets\b69180d9-8dbb-40e0-aab4-777f3cca72d8.jpg</posterPicturePath>
+            <posterPicturePath>assets\e50753be-3032-4605-ba77-b8b295608714.jpg</posterPicturePath>
         </movie>
         <movie id="19">
             <title>Priče iz skrivenog grada: Banda čupavih repova - s</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Na periferiji Skrivenog grada živi Maggie Diggins, razdražljiva vombatica koja živi usamljeno u nadi da će jednog dana pronaći svog životnog partnera. U jednom od svojih noćnih izlazaka, ona nesvjesno zaustavlja svađu između dvije zavađene bande, i to jednim udarcem svoje snažne stražnjice. Ubrzo se Maggie nađe u središtu pozornosti kao najnovija superheroina grada. Preuzima vodstvo bande, poznatije kao Bande čupavih repova, prijateljske, ali žestoke u borbi protiv kriminala. Međutim, nisu svi s</description>
             <duration>90</duration>
             <directors>
@@ -588,11 +598,11 @@ Bivšem vojnom rendžeru Brigsu je dodeljeno da se brine o vojno obučenom psu p
             <genre>animirani</genre>
             <link>https://www.blitz-cinestar.hr/root/price-iz-skrive</link>
             <inTheaters>17.02.22.</inTheaters>
-            <posterPicturePath>assets\c9c53551-d144-437f-ad4c-5dc056c5bc9c.jpg</posterPicturePath>
+            <posterPicturePath>assets\031aa6d8-f890-4c07-885f-46b90a8df0b0.jpg</posterPicturePath>
         </movie>
         <movie id="20">
             <title>Smrt na Nilu</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Mlada, bogata i lijepa Linnet Ridgeway ima gotovo sve. Ono što nema, uzme. Na primjer, zaručnika svoje najbolje prijateljice Jackie. Kad se Linnet i njezin novi dragi otpute na medeni mjesec krstareći Nilom, ništa ne može sačuvati Jackie od njezinih demona. I nitko - čak ni čuveni detektiv Hercule Poirot - ne može spriječiti zločin iz strasti.</description>
             <duration>127</duration>
             <directors>
@@ -618,11 +628,11 @@ Bivšem vojnom rendžeru Brigsu je dodeljeno da se brine o vojno obučenom psu p
             <genre>misterija, drama</genre>
             <link>https://www.blitz-cinestar.hr/root/smrt-na-nilu/72</link>
             <inTheaters>17.02.22.</inTheaters>
-            <posterPicturePath>assets\ffa31c92-774e-4bfd-a438-5440d7fad693.jpg</posterPicturePath>
+            <posterPicturePath>assets\f8b9b8db-8619-4a55-ac40-fed34f7deb4b.jpg</posterPicturePath>
         </movie>
         <movie id="21">
             <title>Uncharted</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>U filmu Uncharted upoznajemo Nathana Drakea (Tom Holland) tijekom njegove prvu avanture u potrazi za blagom s dosjetljivim partnerom Victorom “Sullyjem” Sullivanom (Mark Wahlberg). Inspiriran hvaljenom serijom videoigara, ovaj akcijsko-avanturistički spektakl čija se radnja događa širom cijelog svijeta prati Natea i Sullyja dok se upuštaju u opasnu potragu za "najvećim blagom koje nikada nije pronađeno", također prateći tragove koji bi mogli dovesti do Nateovog davno izgubljenog brata.&#xD;
 Početak </description>
             <duration>116</duration>
@@ -657,11 +667,11 @@ Početak </description>
             <genre>akcija, avantura</genre>
             <link>https://www.blitz-cinestar.hr/root/uncharted/7913/</link>
             <inTheaters>17.02.22.</inTheaters>
-            <posterPicturePath>assets\3efb0e22-07a6-4c48-935d-aa4377795a52.jpg</posterPicturePath>
+            <posterPicturePath>assets\55190d18-2142-4a63-8110-0a51ed16ad64.jpg</posterPicturePath>
         </movie>
         <movie id="22">
             <title>Uncharted</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description></description>
             <duration>116</duration>
             <directors>
@@ -695,11 +705,11 @@ Početak </description>
             <genre>akcija, avantura</genre>
             <link>https://www.blitz-cinestar.hr/root/uncharted/7916/</link>
             <inTheaters>17.02.22.</inTheaters>
-            <posterPicturePath>assets\1dd9a639-2305-4a19-aeab-47f4932246bd.jpg</posterPicturePath>
+            <posterPicturePath>assets\31d08c24-5593-4b20-aaa5-de6953167bd5.jpg</posterPicturePath>
         </movie>
         <movie id="23">
             <title>Uncharted 4DX</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description></description>
             <duration>116</duration>
             <directors>
@@ -733,11 +743,11 @@ Početak </description>
             <genre>akcija, avantura</genre>
             <link>https://www.blitz-cinestar.hr/root/uncharted-4dx/7</link>
             <inTheaters>17.02.22.</inTheaters>
-            <posterPicturePath>assets\76cf6a98-54cd-4024-9c64-5a1775d14737.jpg</posterPicturePath>
+            <posterPicturePath>assets\09f3a865-a3e2-41a8-9ce1-b3c020b63394.jpg</posterPicturePath>
         </movie>
         <movie id="24">
             <title>Uncharted 4DX</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>U filmu Uncharted upoznajemo Nathana Drakea (Tom Holland) tijekom njegove prvu avanture u potrazi za blagom s dosjetljivim partnerom Victorom “Sullyjem” Sullivanom (Mark Wahlberg). Inspiriran hvaljenom serijom videoigara, ovaj akcijsko-avanturistički spektakl čija se radnja događa širom cijelog svijeta prati Natea i Sullyja dok se upuštaju u opasnu potragu za "najvećim blagom koje nikada nije pronađeno", također prateći tragove koji bi mogli dovesti do Nateovog davno izgubljenog brata.&#xD;
 Početak </description>
             <duration>116</duration>
@@ -772,11 +782,11 @@ Početak </description>
             <genre>akcija, avantura</genre>
             <link>https://www.blitz-cinestar.hr/root/uncharted-4dx/7</link>
             <inTheaters>17.02.22.</inTheaters>
-            <posterPicturePath>assets\e503b62b-2c3b-4f64-8480-66067524b10d.jpg</posterPicturePath>
+            <posterPicturePath>assets\9d4f7893-bbcf-4992-98d5-0c7eb8036b77.jpg</posterPicturePath>
         </movie>
         <movie id="25">
             <title>Uncharted IMAX</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>U filmu Uncharted upoznajemo Nathana Drakea (Tom Holland) tijekom njegove prvu avanture u potrazi za blagom s dosjetljivim partnerom Victorom “Sullyjem” Sullivanom (Mark Wahlberg). Inspiriran hvaljenom serijom videoigara, ovaj akcijsko-avanturistički spektakl čija se radnja događa širom cijelog svijeta prati Natea i Sullyja dok se upuštaju u opasnu potragu za "najvećim blagom koje nikada nije pronađeno", također prateći tragove koji bi mogli dovesti do Nateovog davno izgubljenog brata.&#xD;
 Početak </description>
             <duration>116</duration>
@@ -811,11 +821,11 @@ Početak </description>
             <genre>akcija, avantura</genre>
             <link>https://www.blitz-cinestar.hr/root/uncharted-imax/</link>
             <inTheaters>17.02.22.</inTheaters>
-            <posterPicturePath>assets\605d7756-a424-42a1-87ba-5102f9ef56d4.jpg</posterPicturePath>
+            <posterPicturePath>assets\5392a1bc-a2d0-476c-84da-aede0702c954.jpg</posterPicturePath>
         </movie>
         <movie id="26">
             <title>Čudovišta iz moje porodice 2 - sinh</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Nastavak velikog animiranog hita iz 2017.godine. ČUDOVIŠTA IZ MOJE PORODICE  je adaptacija istoimenog bestselera Emmy-em ovekovečenog autora Davida Saflera (Berlin, Berlin), koji je preveden na 18 jezika i objavljen u preko 40  zemalja.&#xD;
 
 &#xD;
@@ -832,11 +842,11 @@ Kako bi oslobodili Babu Jagu i Renfilda iz kandži lovca na čudovišta, porodic
             <genre>animirani</genre>
             <link>https://www.blitz-cinestar.hr/root/cudovista-iz-mo</link>
             <inTheaters>24.02.22.</inTheaters>
-            <posterPicturePath>assets\dbd0b9e6-6907-4629-9dc7-39d2a431baa3.png</posterPicturePath>
+            <posterPicturePath>assets\c7aaf206-0c3c-4ad5-8807-ef8ab9870c2a.png</posterPicturePath>
         </movie>
         <movie id="27">
             <title>Pas</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Bivšem vojnom rendžeru Briggsu je dodijeljeno da se brine o vojno obučenom psu palog vojnika. Njegova je misija transportirati psa na drugi kraj zemlje kako bi prisustvovali vojničkom sprovodu. Njihovo putovanje natjeralo ih je na jedan poseban suživot kojem definitivno ne ide u prilog izvanredno ponašanje „dlakavog demona” koji je u tom periodu izazvao nekoliko nevjerojatnih situacija. Upravo to Briggsa je gurnulo do njegovih krajnjih granica, ali i natjeralo da malo preispita sebe i novi odnos</description>
             <duration>90</duration>
             <directors>
@@ -866,11 +876,11 @@ Kako bi oslobodili Babu Jagu i Renfilda iz kandži lovca na čudovišta, porodic
             <genre>komedija</genre>
             <link>https://www.blitz-cinestar.hr/root/pas/7937//1</link>
             <inTheaters>24.02.22.</inTheaters>
-            <posterPicturePath>assets\b5724162-6883-41f8-98d9-f555335f3acc.jpg</posterPicturePath>
+            <posterPicturePath>assets\3da90a89-364d-4eae-b825-63447bc77f4f.jpg</posterPicturePath>
         </movie>
         <movie id="28">
             <title>Sat očaja</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Amy Carr je na svom jutarnjem treningu kada je prijateljica nazove sa zastrašujućom vijestima: policija je u potrazi za naoružanim napadačem koji je pucao iz vatrenog oružja u srednjoj školi. U istoj školi u koji ide i njezin sin Noah. Duboko usred šumskih staza koje okružuju njezin dom, miljama od grada i potpuno obuzeta panikom, Amy očajnički pokušava što prije doći do škole kako bi se uvjerila da  je njezin sin preživio taj bezumni napad.  </description>
             <duration>84</duration>
             <directors>
@@ -896,11 +906,11 @@ Kako bi oslobodili Babu Jagu i Renfilda iz kandži lovca na čudovišta, porodic
             <genre>triler</genre>
             <link>https://www.blitz-cinestar.hr/root/sat-ocaja/7943/</link>
             <inTheaters>24.02.22.</inTheaters>
-            <posterPicturePath>assets\e7d41620-f259-49c2-bacf-961d6cd2c2bd.jpg</posterPicturePath>
+            <posterPicturePath>assets\0f55ac75-0d68-49a6-8918-7009174efab4.jpg</posterPicturePath>
         </movie>
         <movie id="29">
             <title>Sat očaja</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Za Oskara nominovana Naomi Vots u ulozi majke koja se nalazi u napetoj očajničkoj trci s vremenom.&#xD;
 
 &#xD;
@@ -930,11 +940,11 @@ Ejmi Kar je na svom jutarnjem treningu kada je prijateljica nazove sa zastrašuj
             <genre>triler</genre>
             <link>https://www.blitz-cinestar.hr/root/sat-ocaja/7935/</link>
             <inTheaters>24.02.22.</inTheaters>
-            <posterPicturePath>assets\870d992a-fd90-41db-beb0-5aee665578e9.jpg</posterPicturePath>
+            <posterPicturePath>assets\9e85d567-86b6-4b45-aad8-95fcdc22f2a1.jpg</posterPicturePath>
         </movie>
         <movie id="30">
             <title>Betmen</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description></description>
             <duration>176</duration>
             <directors>
@@ -968,11 +978,11 @@ Ejmi Kar je na svom jutarnjem treningu kada je prijateljica nazove sa zastrašuj
             <genre>akcija</genre>
             <link>https://www.blitz-cinestar.hr/root/betmen/7890//1</link>
             <inTheaters>03.03.22.</inTheaters>
-            <posterPicturePath>assets\b95c94c1-e428-49bf-ab12-38a3a3ebef14.jpg</posterPicturePath>
+            <posterPicturePath>assets\138b4678-4f62-4f8e-8e42-971156f0ab61.jpg</posterPicturePath>
         </movie>
         <movie id="31">
             <title>Betmen 4DX</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description></description>
             <duration>176</duration>
             <directors>
@@ -1006,11 +1016,11 @@ Ejmi Kar je na svom jutarnjem treningu kada je prijateljica nazove sa zastrašuj
             <genre>akcija</genre>
             <link>https://www.blitz-cinestar.hr/root/betmen-4dx/7927</link>
             <inTheaters>03.03.22.</inTheaters>
-            <posterPicturePath>assets\eb6a113e-3fa5-46cc-8126-2c7e71205202.jpg</posterPicturePath>
+            <posterPicturePath>assets\7a365af5-1a93-4eac-8bc1-05aba09142ad.jpg</posterPicturePath>
         </movie>
         <movie id="32">
             <title>Cyrano</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description></description>
             <duration>124</duration>
             <directors>
@@ -1044,11 +1054,11 @@ Ejmi Kar je na svom jutarnjem treningu kada je prijateljica nazove sa zastrašuj
             <genre>drama</genre>
             <link>https://www.blitz-cinestar.hr/root/cyrano/7921//1</link>
             <inTheaters>03.03.22.</inTheaters>
-            <posterPicturePath>assets\a0e4e834-9e9e-4f52-aaa9-04e786b5bc4d.jpg</posterPicturePath>
+            <posterPicturePath>assets\42b85d98-d899-42de-95c3-d4251244cb2b.jpg</posterPicturePath>
         </movie>
         <movie id="33">
             <title>Sirano</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Nagrađivani režiser Džo Rajt privlači bioskopske gledaoce kroz simfoniju emocija, muzikom, romansom i lepotom u filmu SIRANO, ponovo predstavljajući vanvremensku priču o ljubavnom trouglu koji slama srce.&#xD;
 
 Čovek ispred svog vremena, Sirano de Beržerak (Piter Dinklidž) zaslepljuje istovremeno žestokom igrom reči i sjajnim mačevanjem u dvoboju. Ali, ubeđen da ga njegov izgled čini nedostojnim ljubavi prema odanoj prijateljici, sjajnoj Roksani (Hejli Benet), Sirano tek treba da joj otkrije svoja o</description>
@@ -1084,11 +1094,11 @@ Ejmi Kar je na svom jutarnjem treningu kada je prijateljica nazove sa zastrašuj
             <genre>drama, mjuzikl</genre>
             <link>https://www.blitz-cinestar.hr/root/sirano/7952//1</link>
             <inTheaters>03.03.22.</inTheaters>
-            <posterPicturePath>assets\59b36155-688a-468b-a650-fcd4783fa912.jpg</posterPicturePath>
+            <posterPicturePath>assets\2f0a7d86-3e73-4584-b1f4-3835ca982543.jpg</posterPicturePath>
         </movie>
         <movie id="34">
             <title>Škola čarobnih životinja - sink</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description></description>
             <duration>93</duration>
             <directors>
@@ -1101,11 +1111,11 @@ Ejmi Kar je na svom jutarnjem treningu kada je prijateljica nazove sa zastrašuj
             <genre>avantura, obiteljski</genre>
             <link>https://www.blitz-cinestar.hr/root/skola-carobnih-</link>
             <inTheaters>03.03.22.</inTheaters>
-            <posterPicturePath>assets\04ba2b45-c0ce-4932-9a2a-580c3fe649fc.jpg</posterPicturePath>
+            <posterPicturePath>assets\a3301fb4-4c69-4824-abd0-6bf556df80d2.jpg</posterPicturePath>
         </movie>
         <movie id="35">
             <title>The Batman</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Nakon godina lutanja ulicama Gothama, i sa tek nekoliko pouzdanih saveznika - usamljeni osvetnik postaje jedino utjelovljenje pravde među svojim sugrađanima.&#xD;
 
 Kada Gothamovu elitu napadne sadistički ubojica, niz zagonetnih tragova vodi najvećeg istražitelja podzemlja u najmračniju avanturu do sada. </description>
@@ -1141,11 +1151,11 @@ Kada Gothamovu elitu napadne sadistički ubojica, niz zagonetnih tragova vodi na
             <genre>akcija</genre>
             <link>https://www.blitz-cinestar.hr/root/the-batman/7901</link>
             <inTheaters>03.03.22.</inTheaters>
-            <posterPicturePath>assets\e32022bb-5335-4905-ac1a-eee52228ab20.jpg</posterPicturePath>
+            <posterPicturePath>assets\08716648-b5f1-43ec-a52c-ea8cdd169599.jpg</posterPicturePath>
         </movie>
         <movie id="36">
             <title>The Batman 4DX</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Nakon godina lutanja ulicama Gothama, i sa tek nekoliko pouzdanih saveznika - usamljeni osvetnik postaje jedino utjelovljenje pravde među svojim sugrađanima.&#xD;
 
 Kada Gothamovu elitu napadne sadistički ubojica, niz zagonetnih tragova vodi najvećeg istražitelja podzemlja u najmračniju avanturu do sada. </description>
@@ -1181,11 +1191,11 @@ Kada Gothamovu elitu napadne sadistički ubojica, niz zagonetnih tragova vodi na
             <genre>akcija</genre>
             <link>https://www.blitz-cinestar.hr/root/the-batman-4dx/</link>
             <inTheaters>03.03.22.</inTheaters>
-            <posterPicturePath>assets\857411bf-d95f-4973-af2d-c1755a89789e.jpg</posterPicturePath>
+            <posterPicturePath>assets\2ece005b-d84b-4789-8937-bb3495140d13.jpg</posterPicturePath>
         </movie>
         <movie id="37">
             <title>The Batman IMAX</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Nakon godina lutanja ulicama Gothama, i sa tek nekoliko pouzdanih saveznika - usamljeni osvetnik postaje jedino utjelovljenje pravde među svojim sugrađanima.&#xD;
 
 Kada Gothamovu elitu napadne sadistički ubojica, niz zagonetnih tragova vodi najvećeg istražitelja podzemlja u najmračniju avanturu do sada. </description>
@@ -1221,11 +1231,11 @@ Kada Gothamovu elitu napadne sadistički ubojica, niz zagonetnih tragova vodi na
             <genre>akcija</genre>
             <link>https://www.blitz-cinestar.hr/root/the-batman-imax</link>
             <inTheaters>03.03.22.</inTheaters>
-            <posterPicturePath>assets\bd9077a1-cd21-48d8-bf38-a6a6323ba115.jpg</posterPicturePath>
+            <posterPicturePath>assets\3aa3c0a3-ff1a-4e85-95cf-75b8bc646cd8.jpg</posterPicturePath>
         </movie>
         <movie id="38">
             <title>Bilo jednom u Srbiji</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Tokom i posle Prvog svetskog rata, dva mladića i dve devojke iz Leskovca: Cone i Dine, i Zorka i Ružica imali su različite sudbine. Dineta su saveznici odveli do Pariza, gde je naučio sve o lepotama života i svetlima metropole. Cone je, posle ranjavanja i amnezije, završio u Mančesteru, tadašnjoj prestonici industrijskog razvoja, gde je načio kako se samo kroz crni fabrički dim i težak rad stiže do uspeha.&#xD;
 
  &#xD;
@@ -1275,11 +1285,11 @@ Opijeni pobedom u ratu i nepovratno inficirani „duhom slobode i napretka” ko
             <genre>drama</genre>
             <link>https://www.blitz-cinestar.hr/root/bilo-jednom-u-s</link>
             <inTheaters>10.03.22.</inTheaters>
-            <posterPicturePath>assets\cb4ed018-2bf6-4743-8360-e698ef849aac.jpg</posterPicturePath>
+            <posterPicturePath>assets\05de9535-3ab0-4eff-871d-0bfdf19bdd22.jpg</posterPicturePath>
         </movie>
         <movie id="39">
             <title>Crvena panda - sink</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Novi animirani film u središtu radnje ima tinejdžericu Mei Lee koja se pretvara u ogromnu crvenu pandu kada je pod stresom ili kada je jako uzbuđena (što je gotovo stalno). I kao da promjene u njezinim interesima, odnosima i tijelu nisu dovoljne, njezina pretjerano zaštitnički nastrojena, ako ne i pomalo nadmoćna majka Ming, nikad nije daleko od svoje kćeri – zapravo dosta nezgodna stvar za svakog tinejdžera. </description>
             <duration>0</duration>
             <directors>
@@ -1292,11 +1302,11 @@ Opijeni pobedom u ratu i nepovratno inficirani „duhom slobode i napretka” ko
             <genre>animirani</genre>
             <link>https://www.blitz-cinestar.hr/root/crvena-panda-si</link>
             <inTheaters>10.03.22.</inTheaters>
-            <posterPicturePath>assets\1f73d579-a316-43f7-8704-a1c1a72b3193.jpg</posterPicturePath>
+            <posterPicturePath>assets\100c1de6-3abc-4a5b-8b19-ad646861b972.jpg</posterPicturePath>
         </movie>
         <movie id="40">
             <title>Crvena panda 3D - sink</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Novi animirani film u središtu radnje ima tinejdžericu Mei Lee koja se pretvara u ogromnu crvenu pandu kada je pod stresom ili kada je jako uzbuđena (što je gotovo stalno). I kao da promjene u njezinim interesima, odnosima i tijelu nisu dovoljne, njezina pretjerano zaštitnički nastrojena, ako ne i pomalo nadmoćna majka Ming, nikad nije daleko od svoje kćeri – zapravo dosta nezgodna stvar za svakog tinejdžera. </description>
             <duration>0</duration>
             <directors>
@@ -1309,11 +1319,11 @@ Opijeni pobedom u ratu i nepovratno inficirani „duhom slobode i napretka” ko
             <genre>animirani</genre>
             <link>https://www.blitz-cinestar.hr/root/crvena-panda-3d</link>
             <inTheaters>10.03.22.</inTheaters>
-            <posterPicturePath>assets\8f7155c8-9d0e-4c1e-8602-d58eb966619c.jpg</posterPicturePath>
+            <posterPicturePath>assets\e40cb2f9-3f89-4702-88ea-c5b845046a81.jpg</posterPicturePath>
         </movie>
         <movie id="41">
             <title>Pocrvenela panda - sinh</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Mej Li je samouverena trinaestogodišnjakinja koja je rastrzana između toga da bude poslušna ćerka i svoje ni malo prijatne adolescencije koja sa sobom nosi neprilagođenost. Kao da promene u njenim interesovanjima, vezama i telu nisu dovoljne, već kada god se previše uzbudi, što je za tinejdžera praktično – UVEK, ona se pretvori u ogromnu crvenu pandu!</description>
             <duration>0</duration>
             <directors>
@@ -1326,11 +1336,11 @@ Opijeni pobedom u ratu i nepovratno inficirani „duhom slobode i napretka” ko
             <genre>animirani</genre>
             <link>https://www.blitz-cinestar.hr/root/pocrvenela-pand</link>
             <inTheaters>10.03.22.</inTheaters>
-            <posterPicturePath>assets\c8d2c15f-084b-442c-90c9-0d60e7335d40.jpg</posterPicturePath>
+            <posterPicturePath>assets\6cf5f1a8-3001-4fe6-8cee-989ec5f048a6.jpg</posterPicturePath>
         </movie>
         <movie id="42">
             <title>Pocrvenela panda 3D - sinh</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Mej Li je samouverena trinaestogodišnjakinja koja je rastrzana između toga da bude poslušna ćerka i svoje ni malo prijatne adolescencije koja sa sobom nosi neprilagođenost. Kao da promene u njenim interesovanjima, vezama i telu nisu dovoljne, već kada god se previše uzbudi, što je za tinejdžera praktično – UVEK, ona se pretvori u ogromnu crvenu pandu!</description>
             <duration>0</duration>
             <directors>
@@ -1343,11 +1353,11 @@ Opijeni pobedom u ratu i nepovratno inficirani „duhom slobode i napretka” ko
             <genre>animirani</genre>
             <link>https://www.blitz-cinestar.hr/root/pocrvenela-pand</link>
             <inTheaters>10.03.22.</inTheaters>
-            <posterPicturePath>assets\c80b750b-064e-457e-9557-4ed5cbde246d.jpg</posterPicturePath>
+            <posterPicturePath>assets\5fe92d40-e4fb-4366-8ff9-351016a06b7a.jpg</posterPicturePath>
         </movie>
         <movie id="43">
             <title>Rigoleto</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>U svetu dekadencije i korupcije, Vardijevo remek-delo suprostavlja moć i neizvesnost razornim posledicama. U nemilosrdnom svetu luksuzne dekadencije, korupcije i društvenog propadanja, direktor Kraljevske opere Oliver Mirs postavlja operu. Verdijev uzbudljiv Rigoleto suprostavlja moć neizvesnosti i lepote naspram ružnoće, a dirigovao je ser Antonio Papano. Ova posebna jubilarna porjekcija Verdijevog RIgoleta slavi 171 godinu od premijere 1851. godine.&#xD;
 Početak prikazivanja: 10.3.2022</description>
             <duration>180</duration>
@@ -1356,11 +1366,11 @@ Početak prikazivanja: 10.3.2022</description>
             <genre>opera</genre>
             <link>https://www.blitz-cinestar.hr/root/rigoleto/7837//</link>
             <inTheaters>10.03.22.</inTheaters>
-            <posterPicturePath>assets\af64dc91-c027-46ae-a481-2aedafd2d806.jpg</posterPicturePath>
+            <posterPicturePath>assets\90813db4-7591-48e1-b9a5-b53f9396165c.jpg</posterPicturePath>
         </movie>
         <movie id="44">
             <title>Rigoletto</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>U svijetu dekadencije i korupcije, Verdijevo remek djelo suprotstavlja moć i nevinost s devastirajućim posljedicama.
 
 U nemilosrdnom svijetu luksuzne dekadencije, korupcije i društvenog propadanja, ravnatelj Kraljevske opere Oliver Mears postavlja operu. Mears donosi Verdijevo remek-djelo u moderni svijet. Verdijev uzbudljiv Rigoletto suprotstavlja moć nevinosti i ljepote naspram ružnoće, a dirigirao je Sir Antonio Pappano. Ovom posebnom jubilarnom projekcijom Verdijeva Rigoletta slavi se 171 go</description>
@@ -1370,11 +1380,11 @@ U nemilosrdnom svijetu luksuzne dekadencije, korupcije i društvenog propadanja,
             <genre>opera</genre>
             <link>https://www.blitz-cinestar.hr/root/rigoletto/7844/</link>
             <inTheaters>10.03.22.</inTheaters>
-            <posterPicturePath>assets\ce099704-37c2-4128-86e7-d8e8af6a1520.jpg</posterPicturePath>
+            <posterPicturePath>assets\925aca4e-cf99-42c2-8aa9-7f95f1e2703c.jpg</posterPicturePath>
         </movie>
         <movie id="45">
             <title>Operacija Fortuna: Prevara Veka</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description></description>
             <duration>0</duration>
             <directors>
@@ -1412,11 +1422,11 @@ U nemilosrdnom svijetu luksuzne dekadencije, korupcije i društvenog propadanja,
             <genre>akcija</genre>
             <link>https://www.blitz-cinestar.hr/root/operacija-fortu</link>
             <inTheaters>17.03.22.</inTheaters>
-            <posterPicturePath>assets\e2d9c821-2364-4df7-a80b-6289edb80893.jpg</posterPicturePath>
+            <posterPicturePath>assets\a0eb21bc-0eb0-400c-8df6-b2dc16b32ab3.jpg</posterPicturePath>
         </movie>
         <movie id="46">
             <title>Operacija Fortune: Prevara stoljeća</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Super špijun Orson mora pronaći i zaustaviti prodaju nove ubojite tehnologije koju prodaje milijarderski krijumčar oružja Greg Simmonds. Nevoljko udružen s ekipom najboljih operativaca na svijetu, Fortune i njegova ekipa regrutiraju najveću hollywoodsku filmsku zvijezdu Dannyja Francesca, da im pomogne u njihovoj misiji spašavanja svijeta.</description>
             <duration>0</duration>
             <directors>
@@ -1446,11 +1456,11 @@ U nemilosrdnom svijetu luksuzne dekadencije, korupcije i društvenog propadanja,
             <genre>akcija, komedija</genre>
             <link>https://www.blitz-cinestar.hr/root/operacija-fortu</link>
             <inTheaters>17.03.22.</inTheaters>
-            <posterPicturePath>assets\1dda1b0b-d8bb-46a0-b4da-7e9b1e117578.jpg</posterPicturePath>
+            <posterPicturePath>assets\5897656f-bfc5-4772-8780-6fb018486d39.jpg</posterPicturePath>
         </movie>
         <movie id="47">
             <title>Belfast</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Kenet Brana, umetnik koji je više puta nominovan za Oskara, napisao je i režirao film BELFAST, potresnu priču o ljubavi, smehu i gubitku tokom odrastanja jednog dečaka, obojenu muzikom i društvenim nemirima kasnih 1960-ih.</description>
             <duration>98</duration>
             <directors>
@@ -1484,11 +1494,11 @@ U nemilosrdnom svijetu luksuzne dekadencije, korupcije i društvenog propadanja,
             <genre>drama</genre>
             <link>https://www.blitz-cinestar.hr/root/belfast/7954//1</link>
             <inTheaters>24.03.22.</inTheaters>
-            <posterPicturePath>assets\f84d1867-b360-4467-9989-f35071430968.jpg</posterPicturePath>
+            <posterPicturePath>assets\faf590ff-9cc9-4b27-83bc-fb2c25f82a89.jpg</posterPicturePath>
         </movie>
         <movie id="48">
             <title>Hitna pomoć</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Tokom jednog dana na ulicama Los Anđelesa, tri života će se zauvek promeniti.&#xD;
 
  &#xD;
@@ -1518,11 +1528,11 @@ U ovom trileru prepunom vratolomija, režisera i producenta Majkla Beja, odlikov
             <genre>akcija, triler</genre>
             <link>https://www.blitz-cinestar.hr/root/hitna-pomoc/788</link>
             <inTheaters>24.03.22.</inTheaters>
-            <posterPicturePath>assets\58a068ac-dab1-4c14-8087-3e4164094521.jpg</posterPicturePath>
+            <posterPicturePath>assets\ccf35fd6-8295-4fdf-a183-833fb579dc3d.jpg</posterPicturePath>
         </movie>
         <movie id="49">
             <title>Izgubljeni grad</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Briljantna, ali povučena autorica Loretta Sage svoju je karijeru provela pišući o egzotičnim mjestima u ljubavno-pustolovnim romanima sa zgodnim modelom Alanom (koji se nalazi na koricama knjige). Tijekom turneje na kojoj s njim promovira novu knjigu, Lorettu otme ekscentrični milijarder koji se nada da će ga ona odvesti do blaga drevnog izgubljenog grada. Želeći dokazati da može biti heroj i u stvarnom životu, Alan kreće u akciju spašavanja. Ovaj nevjerojatni par se ubrzo nađe u epskoj avanturi</description>
             <duration>0</duration>
             <directors>
@@ -1556,11 +1566,11 @@ U ovom trileru prepunom vratolomija, režisera i producenta Majkla Beja, odlikov
             <genre>akcija, komedija</genre>
             <link>https://www.blitz-cinestar.hr/root/izgubljeni-grad</link>
             <inTheaters>24.03.22.</inTheaters>
-            <posterPicturePath>assets\ebed3fce-369c-41e5-a186-0e582ada33ce.jpg</posterPicturePath>
+            <posterPicturePath>assets\c3704575-1ae0-4567-9f59-b6a10d040609.jpg</posterPicturePath>
         </movie>
         <movie id="50">
             <title>Izgubljeni grad</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Briljantna, ali povučena autorka Loreta Sejdž (Sandra Bulok) provela je svoju karijeru pišući o egzotičnim mestima u svojim popularnim ljubavno-avanturističkim romanima sa zgodnim modelom sa naslovne strane Alanom (Čening Tejtum), koji je svoj život posvetio otelotvorenju lika heroja „Deš. ” Dok je na turneji na kojoj promoviše svoju novu knjigu sa Alanom, Loretu kidnapuje ekscentrični milijarder (Danijel Radklif) koji se nada da će ga ona odvesti do blaga drevnog izgubljenog grada iz njene najn</description>
             <duration>0</duration>
             <directors>
@@ -1594,11 +1604,11 @@ U ovom trileru prepunom vratolomija, režisera i producenta Majkla Beja, odlikov
             <genre>akcija, komedija</genre>
             <link>https://www.blitz-cinestar.hr/root/izgubljeni-grad</link>
             <inTheaters>24.03.22.</inTheaters>
-            <posterPicturePath>assets\8d0ed8e8-7fc3-4d4f-b482-7d242f3a53db.jpg</posterPicturePath>
+            <posterPicturePath>assets\5231fd15-c932-426c-b8fd-2de1ac2c8ff8.jpg</posterPicturePath>
         </movie>
         <movie id="51">
             <title>Morbius</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Jedan od Marvelovih najintrigantnijih, ali u isto vrijeme i najkompleksnijih likova konačno oživljava na velikom platnu uz Jareda Leta, dobitnika prestižne nagrade Oscar, koji će se preobratiti u zagonetnog antijunaka Michaela Morbiusa. Uslijed rijetke krvne bolesti, a odlučan spasiti druge koji boluju od sličnog problema, doktor Morbius pokušava s opasnim eksperimentom. Premda se isprva sve čini strahovito uspješnim, on sam pretvara se u sve mračniju figuru. Hoće li dobro nadvladati zlo ili će </description>
             <duration>108</duration>
             <directors>
@@ -1628,11 +1638,11 @@ U ovom trileru prepunom vratolomija, režisera i producenta Majkla Beja, odlikov
             <genre>akcija</genre>
             <link>https://www.blitz-cinestar.hr/root/morbius/7877//1</link>
             <inTheaters>31.03.22.</inTheaters>
-            <posterPicturePath>assets\3375f5ae-e5fd-43ec-9d08-93d24f4e60ef.jpg</posterPicturePath>
+            <posterPicturePath>assets\01cdef1f-f221-4ce1-a9c1-b7bf17d1bdfe.jpg</posterPicturePath>
         </movie>
         <movie id="52">
             <title>Morbius</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Jedan od Marvelovih najintrigantnijih, ali u isto vreme i najkompleksnijh likova konačno oživljava na velikom platnu uz Džereda Letoa, dobitnika prestižne nagrade Oskar, koji će se preobratiti u zagonetnog antijunaka Majkla Morbiusa. Usled retke krvne bolesti, a odlučan da spasi druge koji boluju od sličnog problema, doktor Morbius pokušava veoma opasan eksperiment. Premda se isprva sve čini strahovito uspešnim, on sam se pretvara u sve mračniju figuru. Hoće li dobro nadvladati zlo ili će Morbiu</description>
             <duration>108</duration>
             <directors>
@@ -1662,11 +1672,11 @@ U ovom trileru prepunom vratolomija, režisera i producenta Majkla Beja, odlikov
             <genre>akcija, avantura</genre>
             <link>https://www.blitz-cinestar.hr/root/morbius/7918//1</link>
             <inTheaters>31.03.22.</inTheaters>
-            <posterPicturePath>assets\a80f6386-4c2d-40f8-9423-dc7597655aa2.jpg</posterPicturePath>
+            <posterPicturePath>assets\6b6d6004-0b44-478e-aabb-6245d9b9ff57.jpg</posterPicturePath>
         </movie>
         <movie id="53">
             <title>Morbius 4DX</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Jedan od Marvelovih najintrigantnijih, ali u isto vreme i najkompleksnijh likova konačno oživljava na velikom platnu uz Džereda Letoa, dobitnika prestižne nagrade Oskar, koji će se preobratiti u zagonetnog antijunaka Majkla Morbiusa. Usled retke krvne bolesti, a odlučan da spasi druge koji boluju od sličnog problema, doktor Morbius pokušava veoma opasan eksperiment. Premda se isprva sve čini strahovito uspešnim, on sam se pretvara u sve mračniju figuru. Hoće li dobro nadvladati zlo ili će Morbiu</description>
             <duration>108</duration>
             <directors>
@@ -1696,11 +1706,11 @@ U ovom trileru prepunom vratolomija, režisera i producenta Majkla Beja, odlikov
             <genre>akcija, avantura</genre>
             <link>https://www.blitz-cinestar.hr/root/morbius-4dx/791</link>
             <inTheaters>31.03.22.</inTheaters>
-            <posterPicturePath>assets\e4ba93d6-7928-4cad-a014-104d4961ca0e.jpg</posterPicturePath>
+            <posterPicturePath>assets\2151eedf-d413-4fbb-8f7b-adf19320edbe.jpg</posterPicturePath>
         </movie>
         <movie id="54">
             <title>Morbius 4DX</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Jedan od Marvelovih najintrigantnijih, ali u isto vrijeme i najkompleksnijih likova konačno oživljava na velikom platnu uz Jareda Leta, dobitnika prestižne nagrade Oscar, koji će se preobratiti u zagonetnog antijunaka Michaela Morbiusa. Uslijed rijetke krvne bolesti, a odlučan spasiti druge koji boluju od sličnog problema, doktor Morbius pokušava s opasnim eksperimentom. Premda se isprva sve čini strahovito uspješnim, on sam pretvara se u sve mračniju figuru. Hoće li dobro nadvladati zlo ili će </description>
             <duration>108</duration>
             <directors>
@@ -1730,11 +1740,11 @@ U ovom trileru prepunom vratolomija, režisera i producenta Majkla Beja, odlikov
             <genre>akcija</genre>
             <link>https://www.blitz-cinestar.hr/root/morbius-4dx/787</link>
             <inTheaters>31.03.22.</inTheaters>
-            <posterPicturePath>assets\8496acb9-43fb-408f-9be9-037256cc4f7a.jpg</posterPicturePath>
+            <posterPicturePath>assets\85557d9d-a1d1-4a42-a0f3-43f850fc278c.jpg</posterPicturePath>
         </movie>
         <movie id="55">
             <title>Morbius IMAX</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Jedan od Marvelovih najintrigantnijih, ali u isto vrijeme i najkompleksnijih likova konačno oživljava na velikom platnu uz Jareda Leta, dobitnika prestižne nagrade Oscar, koji će se preobratiti u zagonetnog antijunaka Michaela Morbiusa. Uslijed rijetke krvne bolesti, a odlučan spasiti druge koji boluju od sličnog problema, doktor Morbius pokušava s opasnim eksperimentom. Premda se isprva sve čini strahovito uspješnim, on sam pretvara se u sve mračniju figuru. Hoće li dobro nadvladati zlo ili će </description>
             <duration>108</duration>
             <directors>
@@ -1764,11 +1774,11 @@ U ovom trileru prepunom vratolomija, režisera i producenta Majkla Beja, odlikov
             <genre>akcija</genre>
             <link>https://www.blitz-cinestar.hr/root/morbius-imax/78</link>
             <inTheaters>31.03.22.</inTheaters>
-            <posterPicturePath>assets\28f89e21-a3bf-4b80-b5a8-2660f3043ea8.jpg</posterPicturePath>
+            <posterPicturePath>assets\224279a6-9cdd-4db6-8499-5431ff61e091.jpg</posterPicturePath>
         </movie>
         <movie id="56">
             <title>Sonic: Super jež 2  - sink</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Nakon što se smjestio u Green Hills, Sonic je odlučan pokazati svima da ima sve kvalitete pravog junaka. Njegov test počinje u trenutku kada se vrati Dr. Robotnik, ovoga puta s novim partnerom - Knucklesom, u potrazi za smaragdom koji ima moć stvoriti i uništiti civilizacije. Sonic će se udružiti s Tailsom pa će njih dvojica krenuti u avanturu tijekom koje moraju pronaći smaragd prije nego što padne u krive ruke.</description>
             <duration>0</duration>
             <directors>
@@ -1781,11 +1791,11 @@ U ovom trileru prepunom vratolomija, režisera i producenta Majkla Beja, odlikov
             <genre>avantura, obiteljski</genre>
             <link>https://www.blitz-cinestar.hr/root/sonic-super-jez</link>
             <inTheaters>31.03.22.</inTheaters>
-            <posterPicturePath>assets\ae79d0b3-4bd2-4aed-881d-2435d0fa06e8.jpg</posterPicturePath>
+            <posterPicturePath>assets\32435763-58ef-42a0-a87e-17a28c95b740.jpg</posterPicturePath>
         </movie>
         <movie id="57">
             <title>Sonic: Super jež 2  - titl</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Nakon što se smjestio u Green Hills, Sonic je odlučan pokazati svima da ima sve kvalitete pravog junaka. Njegov test počinje u trenutku kada se vrati Dr. Robotnik, ovoga puta s novim partnerom - Knucklesom, u potrazi za smaragdom koji ima moć stvoriti i uništiti civilizacije. Sonic će se udružiti s Tailsom pa će njih dvojica krenuti u avanturu tijekom koje moraju pronaći smaragd prije nego što padne u krive ruke.</description>
             <duration>0</duration>
             <directors>
@@ -1819,11 +1829,11 @@ U ovom trileru prepunom vratolomija, režisera i producenta Majkla Beja, odlikov
             <genre>avantura, obiteljski</genre>
             <link>https://www.blitz-cinestar.hr/root/sonic-super-jez</link>
             <inTheaters>31.03.22.</inTheaters>
-            <posterPicturePath>assets\53fda5d3-9fcf-452d-9c36-cef74c519b9d.jpg</posterPicturePath>
+            <posterPicturePath>assets\086f8405-23bb-487e-8045-c1c3a9f617f0.jpg</posterPicturePath>
         </movie>
         <movie id="58">
             <title>Sonikov film 2 - sinh</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Omiljeni plavi jež na svetu se vraća u avanturi sledećeg nivoa u SONIKOVOM FILMU 2. Nakon što se nastanio u Grin Hilsu, Sonik je željan da dokaže da ima ono što je potrebno da bude pravi heroj. On je na testu kada se dr Robotnik vraća, ovog puta sa novim partnerom, Naklsom, u potrazi za smaragdom koji ima moć da uništi civilizacije. Sonik se udružuje sa svojim pomoćnikom Tejlsom, i zajedno kreću na putovanje planetom kako bi pronašli smaragd pre nego što padne u pogrešne ruke.&#xD;
 
  </description>
@@ -1851,15 +1861,19 @@ U ovom trileru prepunom vratolomija, režisera i producenta Majkla Beja, odlikov
                     <firstName>Mateja </firstName>
                     <lastName>Vukašinović</lastName>
                 </actor>
+                <actor id="115">
+                    <firstName>Milan </firstName>
+                    <lastName>Antonić</lastName>
+                </actor>
             </actors>
             <genre>akcija, avantura</genre>
             <link>https://www.blitz-cinestar.hr/root/sonikov-film-2-</link>
             <inTheaters>31.03.22.</inTheaters>
-            <posterPicturePath>assets\92d13a86-feb2-485e-81fe-87d1c850da11.jpg</posterPicturePath>
+            <posterPicturePath>assets\74821839-b6eb-466e-8105-504c0713f5cc.jpg</posterPicturePath>
         </movie>
         <movie id="59">
             <title>Sonikov film 2 - titl</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Omiljeni plavi jež na svetu se vraća u avanturi sledećeg nivoa u SONIKOVOM FILMU 2. Nakon što se nastanio u Grin Hilsu, Sonik je željan da dokaže da ima ono što je potrebno da bude pravi heroj. On je na testu kada se dr Robotnik vraća, ovog puta sa novim partnerom, Naklsom, u potrazi za smaragdom koji ima moć da uništi civilizacije. Sonik se udružuje sa svojim pomoćnikom Tejlsom, i zajedno kreću na putovanje planetom kako bi pronašli smaragd pre nego što padne u pogrešne ruke.&#xD;
 
  </description>
@@ -1895,11 +1909,11 @@ U ovom trileru prepunom vratolomija, režisera i producenta Majkla Beja, odlikov
             <genre>akcija, avantura</genre>
             <link>https://www.blitz-cinestar.hr/root/sonikov-film-2-</link>
             <inTheaters>31.03.22.</inTheaters>
-            <posterPicturePath>assets\c5f9f493-062a-407c-9401-889d970c0634.jpg</posterPicturePath>
+            <posterPicturePath>assets\ab625a6d-82ea-4159-9e45-c1ae35cbea50.jpg</posterPicturePath>
         </movie>
         <movie id="60">
             <title>Severnjak</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Od proslavljenog reditelja Roberta Egersa (Veštica, Svetionik) stiže SEVERNJAK sa Aleksanderom Skarsgardom, Anjom Tejlor-Džoj, Nikol Kidman, Itanom Hokom, Viljemom Dafoom i Bjork u glavnim ulogama. SEVERNJAK je epski triler o osveti koji istražuje koliko daleko će vikinški princ otići tražeći pravdu za svog ubijenog oca.</description>
             <duration>140</duration>
             <directors>
@@ -1941,11 +1955,11 @@ U ovom trileru prepunom vratolomija, režisera i producenta Majkla Beja, odlikov
             <genre>epski triler</genre>
             <link>https://www.blitz-cinestar.hr/root/severnjak/7957/</link>
             <inTheaters>07.04.22.</inTheaters>
-            <posterPicturePath>assets\f0901afd-3cb1-43d5-b51f-aa3801faca40.jpg</posterPicturePath>
+            <posterPicturePath>assets\507157bb-0fb7-4eea-9fb1-71a7c9e637f7.jpg</posterPicturePath>
         </movie>
         <movie id="61">
             <title>La Traviata</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>U glamuroznom i površnom društvu kurtizana sve se žrtvuje za ljubav.
 
 Pariz 19. stoljeća mjesto je kontrasta; glamur i površnost, ljubav i požuda, život i smrt. Kurtizana Violetta pjeva neke od Verdijevih najcjenjenijih arija, uključujući radosnu Sempre libera u svojim dirljivim i strastvenim susretima s Alfredom i Germontom. Produkcija Richarda Eyrea za Kraljevsku operu nedavno je proslavila 25 godina na pozornici ROH-a, a ove godine vraća se s hvaljenom opernom zvijezdom Pretty Yende u ulozi V</description>
@@ -1955,11 +1969,11 @@ Pariz 19. stoljeća mjesto je kontrasta; glamur i površnost, ljubav i požuda, 
             <genre>opera</genre>
             <link>https://www.blitz-cinestar.hr/root/la-traviata/784</link>
             <inTheaters>13.04.22.</inTheaters>
-            <posterPicturePath>assets\1dac17cf-779a-4dc1-96d6-b0d05973141c.jpg</posterPicturePath>
+            <posterPicturePath>assets\93b4f6b9-a3e2-462a-8464-981e66216d9c.jpg</posterPicturePath>
         </movie>
         <movie id="62">
             <title>Travijata</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>U glamuroznom površnom društvu kurtizana sve se žrtvuje za ljubav. Pariz iz 19. veka je mesto kontrasta; glamur i površnost, ljubav i požuda, život i smrt. Kurtizana Violeta peva neke od Verdijevih najpoznatijih arija, uključujući radosnog Semper libera u njenim dirljivim i strastvenim susretima sa Alfredom i Žermonom. Produkcija Ričarda Ejra za Kraljevsku operu nedavno je proslavila 25 godina na sceni ROH-a, a ove godine se vraća sa hvaljenom operskom zvezdom Preti Iende u ulozi Violete.&#xD;
 Počet</description>
             <duration>220</duration>
@@ -1968,11 +1982,11 @@ Počet</description>
             <genre>opera</genre>
             <link>https://www.blitz-cinestar.hr/root/travijata/7838/</link>
             <inTheaters>13.04.22.</inTheaters>
-            <posterPicturePath>assets\419347eb-8e30-4374-842f-7acb077bf4c5.jpg</posterPicturePath>
+            <posterPicturePath>assets\17b0384b-cc1a-48aa-a6a4-a8cd1613366c.jpg</posterPicturePath>
         </movie>
         <movie id="63">
             <title>Čudesne zvijeri: Dumbledoreove tajne</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Profesor Albus Dumbledore shvaća da veliki mračni čarobnjak Gellert Grindelwald želi preuzeti kontrolu nad čarobnjačkim svijetom. Kako ga ne može sam zaustaviti, pomaže mu Newt Scamander, koji predvodi neustrašivu ekipu čarobnjaka uz pomoć jednog “bezjaka”. Na nevjerojatnoj misiji susrest će se stare i nove čudesne zvijeri od kojih je dio na Grindelwaldovoj strani. Dumbledore međutim zbog velikog rizika i opasnosti neće dugo ostati po strani.</description>
             <duration>0</duration>
             <directors>
@@ -2002,11 +2016,11 @@ Počet</description>
             <genre>akcija, avantura</genre>
             <link>https://www.blitz-cinestar.hr/root/cudesne-zvijeri</link>
             <inTheaters>14.04.22.</inTheaters>
-            <posterPicturePath>assets\5c8fd1fb-0806-4bfc-8f6b-057e014cfcec.jpg</posterPicturePath>
+            <posterPicturePath>assets\e2dc1539-2998-44a5-903b-f07a7fefd703.jpg</posterPicturePath>
         </movie>
         <movie id="64">
             <title>Čudesne zvijeri: Dumbledoreove tajne 3D</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Profesor Albus Dumbledore shvaća da veliki mračni čarobnjak Gellert Grindelwald želi preuzeti kontrolu nad čarobnjačkim svijetom. Kako ga ne može sam zaustaviti, pomaže mu Newt Scamander, koji predvodi neustrašivu ekipu čarobnjaka uz pomoć jednog “bezjaka”. Na nevjerojatnoj misiji susrest će se stare i nove čudesne zvijeri od kojih je dio na Grindelwaldovoj strani. Dumbledore međutim zbog velikog rizika i opasnosti neće dugo ostati po strani.</description>
             <duration>0</duration>
             <directors>
@@ -2036,11 +2050,11 @@ Počet</description>
             <genre>akcija, avantura</genre>
             <link>https://www.blitz-cinestar.hr/root/cudesne-zvijeri</link>
             <inTheaters>14.04.22.</inTheaters>
-            <posterPicturePath>assets\241aa127-78c9-4539-a3a4-193ce7c1f18a.jpg</posterPicturePath>
+            <posterPicturePath>assets\49003893-0063-41ee-98cb-f96c75d427ae.jpg</posterPicturePath>
         </movie>
         <movie id="65">
             <title>Čudesne zvijeri: Dumbledoreove tajne 3D 4DX</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Profesor Albus Dumbledore shvaća da veliki mračni čarobnjak Gellert Grindelwald želi preuzeti kontrolu nad čarobnjačkim svijetom. Kako ga ne može sam zaustaviti, pomaže mu Newt Scamander, koji predvodi neustrašivu ekipu čarobnjaka uz pomoć jednog “bezjaka”. Na nevjerojatnoj misiji susrest će se stare i nove čudesne zvijeri od kojih je dio na Grindelwaldovoj strani. Dumbledore međutim zbog velikog rizika i opasnosti neće dugo ostati po strani.</description>
             <duration>0</duration>
             <directors>
@@ -2070,11 +2084,11 @@ Počet</description>
             <genre>akcija, avantura</genre>
             <link>https://www.blitz-cinestar.hr/root/cudesne-zvijeri</link>
             <inTheaters>14.04.22.</inTheaters>
-            <posterPicturePath>assets\5b2197c1-5d49-4990-9d62-5f7cf178b7b1.jpg</posterPicturePath>
+            <posterPicturePath>assets\a48d3786-e11f-40b0-a53a-119022708d9d.jpg</posterPicturePath>
         </movie>
         <movie id="66">
             <title>Čudesne zvijeri: Dumbledoreove tajne 3D IMAX</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Profesor Albus Dumbledore shvaća da veliki mračni čarobnjak Gellert Grindelwald želi preuzeti kontrolu nad čarobnjačkim svijetom. Kako ga ne može sam zaustaviti, pomaže mu Newt Scamander, koji predvodi neustrašivu ekipu čarobnjaka uz pomoć jednog “bezjaka”. Na nevjerojatnoj misiji susrest će se stare i nove čudesne zvijeri od kojih je dio na Grindelwaldovoj strani. Dumbledore međutim zbog velikog rizika i opasnosti neće dugo ostati po strani.</description>
             <duration>0</duration>
             <directors>
@@ -2104,11 +2118,11 @@ Počet</description>
             <genre>akcija, avantura</genre>
             <link>https://www.blitz-cinestar.hr/root/cudesne-zvijeri</link>
             <inTheaters>14.04.22.</inTheaters>
-            <posterPicturePath>assets\f947385a-7a43-443e-b2cf-3ca05324d524.jpg</posterPicturePath>
+            <posterPicturePath>assets\3f96c2b2-87ae-4e54-bb83-6b2d50cf2a5b.jpg</posterPicturePath>
         </movie>
         <movie id="67">
             <title>Fantastične zveri: Tajne Dambldora</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Slavna autoka Hari Poter serijala, Dž.K. Rouling i studio Warner Bros. pripremili su novu poslasticu za sve ljubitelje sveta čarobnjaka. Vreme je za povratak u magiju!&#xD;
 
  &#xD;
@@ -2142,11 +2156,11 @@ Profesor Albus Dumbldor shvata da veliki mračni čarobnjak Gelert Grindelvald �
             <genre>akcija, avantura</genre>
             <link>https://www.blitz-cinestar.hr/root/fantasticne-zve</link>
             <inTheaters>14.04.22.</inTheaters>
-            <posterPicturePath>assets\4fcba489-117c-4d3e-a559-0655e6b84182.jpg</posterPicturePath>
+            <posterPicturePath>assets\cec49ade-ec70-4bc0-bea5-4bde5438c351.jpg</posterPicturePath>
         </movie>
         <movie id="68">
             <title>Fantastične zveri: Tajne Dambldora 3D</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Slavna autoka Hari Poter serijala, Dž.K. Rouling i studio Warner Bros. pripremili su novu poslasticu za sve ljubitelje sveta čarobnjaka. Vreme je za povratak u magiju!&#xD;
 
  &#xD;
@@ -2180,11 +2194,11 @@ Profesor Albus Dumbldor shvata da veliki mračni čarobnjak Gelert Grindelvald �
             <genre>akcija, avantura</genre>
             <link>https://www.blitz-cinestar.hr/root/fantasticne-zve</link>
             <inTheaters>14.04.22.</inTheaters>
-            <posterPicturePath>assets\b18498da-77d5-4390-839f-ecaa7f0f11ac.jpg</posterPicturePath>
+            <posterPicturePath>assets\cc851350-6a40-446c-aa38-0eb31b1d709e.jpg</posterPicturePath>
         </movie>
         <movie id="69">
             <title>Fantastične zveri: Tajne Dambldora 3D 4DX</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Slavna autoka Hari Poter serijala, Dž.K. Rouling i studio Warner Bros. pripremili su novu poslasticu za sve ljubitelje sveta čarobnjaka. Vreme je za povratak u magiju!&#xD;
 
  &#xD;
@@ -2218,11 +2232,11 @@ Profesor Albus Dumbldor shvata da veliki mračni čarobnjak Gelert Grindelvald �
             <genre>akcija, avantura</genre>
             <link>https://www.blitz-cinestar.hr/root/fantasticne-zve</link>
             <inTheaters>14.04.22.</inTheaters>
-            <posterPicturePath>assets\eb09afa8-9f05-4806-a13d-8150bac44bd5.jpg</posterPicturePath>
+            <posterPicturePath>assets\68d560b9-6fcc-4d80-9dbc-cc99914b8c08.jpg</posterPicturePath>
         </movie>
         <movie id="70">
             <title>Labudovo jezero</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Ova verzija klasične priče Kraljevskog baleta uzbudljivo kombinuje spektakl, misteriju i strast te predstavlja borbu između dobra i zla i pokušaj ljubavi da prevaziđe sve probleme. Magiju jezera, šuma i palata oživljava blistavi dizajn Džona Makfarlejna i uzvišenu partituru Čajkovskog. Raskošna produkcija Labudovog jezera vraća se na scenu Kraljevske opere nakon što je njeno oživljavanje 2020. prekinuto zatvaranjem pozorišta zbog pandemije. Ovaj klasik na repertoaru svedoči o stalnoj ljubavi pok</description>
             <duration>200</duration>
             <directors/>
@@ -2230,11 +2244,11 @@ Profesor Albus Dumbldor shvata da veliki mračni čarobnjak Gelert Grindelvald �
             <genre>balet</genre>
             <link>https://www.blitz-cinestar.hr/root/labudovo-jezero</link>
             <inTheaters>19.05.22.</inTheaters>
-            <posterPicturePath>assets\c48845ce-5768-4a1c-b344-a234ef421d4a.jpg</posterPicturePath>
+            <posterPicturePath>assets\9d677ea6-b5a4-4706-b62c-ab44768a101c.jpg</posterPicturePath>
         </movie>
         <movie id="71">
             <title>Labuđe jezero</title>
-            <publishedDateTime>2022-01-30T01:04:39</publishedDateTime>
+            <publishedDateTime>2022-01-30T04:29:56</publishedDateTime>
             <description>Ova verzija klasične ljubavne priče Kraljevskog baleta uzbudljivo spaja spektakl, misterij i strast. 
    
 Ova klasična bajka predstavlja bitku između dobra i zla te pokušaj ljubavi da pobijedi sve probleme. Čarolija jezera, šuma i palača oživljena je blistavim dizajnom Johna Macfarlanea i uzvišenom partiturom Čajkovskog. Raskošna produkcija Labuđeg jezera vraća se na pozornicu Kraljevske opere nakon što je njezino oživljavanje 2020. prekinuto zatvaranjem kazališta zbog pandemije. Ovaj klasik na </description>
@@ -2244,7 +2258,7 @@ Ova klasična bajka predstavlja bitku između dobra i zla te pokušaj ljubavi da
             <genre>balet</genre>
             <link>https://www.blitz-cinestar.hr/root/labudje-jezero/</link>
             <inTheaters>19.05.22.</inTheaters>
-            <posterPicturePath>assets\8b672243-9bf1-4abf-8f28-4f7cef699b09.jpg</posterPicturePath>
+            <posterPicturePath>assets\2e6900bf-e711-4e8e-b422-7b490d19c0f2.jpg</posterPicturePath>
         </movie>
     </movies>
 </moviesArchive>

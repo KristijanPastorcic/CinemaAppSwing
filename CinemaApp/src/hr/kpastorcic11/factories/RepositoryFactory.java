@@ -6,9 +6,11 @@ package hr.kpastorcic11.factories;
 
 import hr.kpastorcic11.repositories.interfaces.AuthRepositry;
 import hr.kpastorcic11.repositories.interfaces.MoviesRepository;
+import hr.kpastorcic11.repositories.interfaces.PersonsRepository;
 import hr.kpastorcic11.repositories.interfaces.UsersRepository;
 import hr.kpastorcic11.repositories.sql.MSqlAuthRepository;
 import hr.kpastorcic11.repositories.sql.MSqlMoviesRepository;
+import hr.kpastorcic11.repositories.sql.MSqlPersonsRepository;
 import hr.kpastorcic11.repositories.sql.MSqlUsersRepository;
 
 
@@ -20,6 +22,10 @@ public class RepositoryFactory {
 
     public static MoviesRepository getMoviesRepository() {
         return new MSqlMoviesRepository();
+    }
+
+    public static PersonsRepository getPersonsRepository() {
+        return new MSqlPersonsRepository();
     }
     
     private RepositoryFactory() {

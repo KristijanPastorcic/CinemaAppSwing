@@ -7,8 +7,7 @@ package hr.kpastorcic11.parsers.rss.cinestar;
 import hr.algebra.factories.ParserFactory;
 import hr.algebra.factories.URLConnectionFactory;
 import hr.algebra.utilities.FileUtils;
-import hr.kpastorcic11.models.Actor;
-import hr.kpastorcic11.models.Director;
+
 import hr.kpastorcic11.models.Movie;
 import hr.kpastorcic11.models.Person;
 import java.io.File;
@@ -120,53 +119,11 @@ public class CinestarRSSParser {
                 break;
             case REDATELJ:
                 String[] directors = data.split(", ");
-                List<Director> directorsList = new ArrayList<>();
-                for (String person : directors) {
-                    String[] split = person.split(" ");
-                    if (split.length == 1) {
-                        directorsList.add(new Director(
-                                split[0], ""
-                        ));
-                        continue;
-                    }
-                    if (split.length > 1) {
-                        String name = "";
-                        for (int i = 0; i < split.length - 1; i++) {
-                            name += split[i] + " ";
-                        }
-                        directorsList.add(new Director(name, split[split.length - 1]));
-                        continue;
-                    }
-                    directorsList.add(new Director(
-                            split[0], split[1]
-                    ));
-                }
-                movie.setDirectors(directorsList);
+                movie.setDirectors(getPersons(directors));
                 break;
             case GLUMCI:
                 String[] actors = data.split(", ");
-                List<Actor> actorsList = new ArrayList<>();
-                for (String person : actors) {
-                    String[] split = person.split(" ");
-                    if (split.length == 1) {
-                        actorsList.add(new Actor(
-                                split[0], ""
-                        ));
-                        continue;
-                    }
-                    if (split.length > 1) {
-                        String name = "";
-                        for (int i = 0; i < split.length - 1; i++) {
-                            name += split[i] + " ";
-                        }
-                        actorsList.add(new Actor(name, split[split.length - 1]));
-                        continue;
-                    }
-                    actorsList.add(new Actor(
-                            split[0], split[1]
-                    ));
-                }
-                movie.setActors(actorsList);
+                movie.setActors(getPersons(actors));
                 break;
             case TRAJANJE:
                 movie.setDuration(Integer.parseInt(data));
@@ -188,7 +145,7 @@ public class CinestarRSSParser {
                         Integer.parseInt(year),
                         Integer.parseInt(month),
                         Integer.parseInt(day));
-                movie.setInTheatars(localDate);
+                movie.setInTheaters(localDate);
                 break;
         }
     }

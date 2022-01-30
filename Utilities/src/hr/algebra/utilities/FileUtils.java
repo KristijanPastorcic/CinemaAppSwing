@@ -95,6 +95,12 @@ public class FileUtils {
         return Optional.empty();
     }
 
+    /**
+     * creates directory if not found 
+     * @param url
+     * @param destination
+     * @throws IOException
+     */
     public static void copyFromURL(String url, String destination) throws IOException {
         createDIRIfNotExists(destination);
         HttpURLConnection connection
